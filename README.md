@@ -47,43 +47,47 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ---
-
+***BOLD***
 ## 📊 Performance Metrics
-- **Inference Time**: ~500ms per article (CPU tested)  
-- **RAM Usage**: ~1.5GB for complete pipeline  
-- **ROUGE Score**: Used for evaluating summarization  
-- **Classification Accuracy**: ~89% on test set
+- 🕒 **Inference Time**: ~500ms per article (CPU tested)
+- 🧠 **RAM Usage**: ~1.5GB for complete pipeline
+- 🧾 **ROUGE Score**: Used for evaluating summarization
+- 🎯 **Classification Accuracy**: ~89% on test set
 
 ---
 
 ## 🖼️ Sample Screens
-- ✅ News article input UI  
-- ✅ Output: Summary + Categories + Sentiment  
-- ✅ WordCloud + Graphs for analysis  
+- ✅ **News article input UI**
+- ✅ **Output**: Summary + Categories + Sentiment
+- ✅ **WordCloud + Graphs** for analysis
 
 ---
 
 ## 🧪 Evaluation Environment
-- **CPU**: Intel i5 (10th Gen)  
-- **RAM**: 8 GB  
-- **OS**: Windows 10 / Ubuntu 20.04  
-- **Test Device**: Personal Laptop (Edge Device)
+- 💻 **CPU**: Intel i5 (10th Gen)
+- 🧠 **RAM**: 8 GB
+- 🖥️ **OS**: Windows 10 / Ubuntu 20.04
+- 📱 **Test Device**: Personal Laptop (Edge Device)
 
 ---
 
 ## 👨‍💻 Authors
-- **J. Ambika (212K1A0515)**  
-- **S. B. Himachandri (212K1A0547)**  
-- **Shamshuddin M G M (212K1A0552)**  
-- **Sakaray Venkatesh (212K1A0544)**  
-- **N. Shaik Shavali (212K1A0536)**
+- 👩‍💻 **J. Ambika (212K1A0515)**
+- 👩‍💻 **S. B. Himachandri (212K1A0547)**
+- 👨‍💻 **Shamshuddin M G M (212K1A0552)**
+- 👨‍💻 **Sakaray Venkatesh (212K1A0544)**
+- 👨‍💻 **N. Shaik Shavali (212K1A0536)**
 
 ---
 
 ## 📄 License
-This project is for **academic and educational use only**.
+🛡️ This project is for **academic and educational use only**.
 
 ---
 
 ## 📌 Note
-For demo or deployment support, feel free to raise an issue or connect via LinkedIn.
+📬 For demo or deployment support, feel free to raise an issue or connect via LinkedIn.
+
+
+
+
