@@ -46,8 +46,11 @@ pip install -r requirements.txt
 # Run the app
 streamlit run app.py
 
----
-***BOLD***
+
+
+
+-------------------------------------------------------------
+
 ## 📊 Performance Metrics
 - 🕒 **Inference Time**: ~500ms per article (CPU tested)
 - 🧠 **RAM Usage**: ~1.5GB for complete pipeline
