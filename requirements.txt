@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+requests
+beautifulsoup4
+transformers
+torch
+openpyxl
+wordcloud
+matplotlib
+nltk
+nest-asyncio==1.5.4
+python-docx
