@@ -88,8 +88,7 @@ streamlit run app.py
 
 ---
 
-## 📌 Note
-📬 For demo or deployment support, feel free to raise an issue or connect via LinkedIn.
+
 
 
 
